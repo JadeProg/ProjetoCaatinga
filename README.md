@@ -46,7 +46,7 @@ Para testar o projeto no Unity Editor:
 
 *   **Jade Pereira da Paz**
 *   [LinkedIn](https://www.linkedin.com/in/jade-paz/)
-*   [GitHub](https://github.com/Jade-Paz )
+*   [GitHub](https://github.com/JadeProg)
 
 ---
 _Este projeto foi desenvolvido como parte da Residência em TIC 29._
