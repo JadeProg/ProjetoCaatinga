@@ -45,7 +45,7 @@ Para testar o projeto no Unity Editor:
 ## 👩‍💻 Desenvolvedora
 
 *   **Jade Pereira da Paz**
-*   [LinkedIn (opcional)](URL_DO_SEU_LINKEDIN_AQUI)
+*   [LinkedIn](https://www.linkedin.com/in/jade-paz/)
 *   [GitHub](https://github.com/Jade-Paz )
 
 ---
