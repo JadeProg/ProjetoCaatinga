@@ -1,0 +1,53 @@
+# Museu Virtual da Caatinga
+
+![Badge Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity )
+![Badge VR](https://img.shields.io/badge/VR%20Ready-Meta%20Quest-blue?style=for-the-badge&logo=meta )
+![Badge Autoral](https://img.shields.io/badge/Assets-100%25%20Autorais-green?style=for-the-badge )
+
+## 🌵 Sobre o Projeto
+
+O **Museu Virtual da Caatinga** é uma experiência imersiva em Realidade Virtual (VR) desenvolvida como projeto final para a Residência em TIC 29 (Web 3.0). O objetivo é valorizar e difundir a riqueza do bioma da Caatinga e da cultura nordestina, muitas vezes sub-representados.
+
+O ambiente transporta o usuário para um cenário que representa a beleza do sertão, onde é possível aprender sobre espécies típicas da flora e interagir com elementos icônicos da cultura regional.
+
+## ✨ Funcionalidades
+
+*   **Exploração Livre:** Caminhe por um ambiente 3D que recria a paisagem da Caatinga.
+*   **Conteúdo Educacional:** Encontre painéis informativos sobre espécies de plantas nativas, como:
+    *   Mandacaru
+    *   Xiquexique
+    *   Coroa-de-Frade
+    *   Facheiro
+    *   Juazeiro
+*   **Imersão Cultural:** O ambiente conta com uma rádio tocando músicas nordestinas e painéis sobre figuras históricas como Lampião e Maria Bonita.
+*   **Interatividade:** Pegue e manipule objetos simbólicos como um chapéu de cangaço e um triângulo, instrumento clássico do forró.
+
+## 🎨 Destaque: Assets 100% Autorais
+
+Um dos grandes diferenciais deste projeto é que **todos os assets 3D e texturas foram criados do zero pela desenvolvedora**. A decisão foi motivada pela escassez de recursos disponíveis sobre a Caatinga e pelo desejo de criar uma experiência visualmente única e autêntica.
+
+## 🛠️ Tecnologias Utilizadas
+
+*   **Engine:** Unity 3D (URP)
+*   **SDK de VR:** Meta XR SDK (Oculus Integration)
+*   **Software de Modelagem:** Blender (ou seu software de preferência)
+*   **Plataforma Alvo:** Meta Quest 2 / 3
+
+## 🚀 Como Executar
+
+Para testar o projeto no Unity Editor:
+1.  Clone este repositório: `git clone https://github.com/Jade-Paz/ProjetoCaatinga.git`
+2.  Abra o projeto com o Unity Hub (versão 2022.3 ou superior ).
+3.  Instale as dependências do projeto, se solicitado.
+4.  Abra a cena principal localizada na pasta `Assets/Scenes`.
+5.  Utilize o `XR Meta Simulator` para testar as interações com o mouse e teclado ou conecte seu headset VR.
+
+## 👩‍💻 Desenvolvedora
+
+*   **Jade Pereira da Paz**
+*   [LinkedIn (opcional)](URL_DO_SEU_LINKEDIN_AQUI)
+*   [GitHub](https://github.com/Jade-Paz )
+
+---
+_Este projeto foi desenvolvido como parte da Residência em TIC 29._
+
