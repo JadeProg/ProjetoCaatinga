@@ -1,10 +1,10 @@
 # Museu Virtual da Caatinga
 
 <p>
-  <img src="img1.png" width="120" style="border-radius:50%">
-  <img src="img2.png" width="120" style="border-radius:50%">
-  <img src="img3.png" width="120" style="border-radius:50%">
-  <img src="img4.png" width="120" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/manda.png" width="140">
+  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/fach.png" width="140">
+  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/xiquexi.png" width="140">
+  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/coroa.png" width="140">
 </p>
 
 ## 🌵 Sobre o Projeto
