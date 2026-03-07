@@ -35,7 +35,7 @@ Um dos grandes diferenciais deste projeto é que **todos os assets 3D e texturas
 *   **Software de Modelagem:** Blender 
 *   **Plataforma Alvo:** Meta Quest 2 / 3
 
-## 📎 Como Executar
+## ⁇ Como Executar
 
 Para testar o projeto no Unity Editor:
 1.  Clone este repositório: `git clone https://github.com/Jade-Paz/ProjetoCaatinga.git`
