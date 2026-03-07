@@ -22,7 +22,7 @@ O ambiente transporta o usuário para um cenário que representa a beleza do ser
 *   **Imersão Cultural:** O ambiente conta com uma rádio tocando músicas nordestinas e painéis sobre figuras históricas como Lampião e Maria Bonita.
 *   **Interatividade:** Pegue e manipule objetos simbólicos como um chapéu de cangaço e um triângulo, instrumento clássico do forró.
 
-## 🎨 Destaque: Assets 100% Autorais
+## 🎨 Assets Autorais
 
 Um dos grandes diferenciais deste projeto é que **todos os assets 3D e texturas foram criados do zero pela desenvolvedora**. A decisão foi motivada pela escassez de recursos disponíveis sobre a Caatinga e pelo desejo de criar uma experiência visualmente única e autêntica.
 
@@ -30,7 +30,7 @@ Um dos grandes diferenciais deste projeto é que **todos os assets 3D e texturas
 
 *   **Engine:** Unity 3D (URP)
 *   **SDK de VR:** Meta XR SDK (Oculus Integration)
-*   **Software de Modelagem:** Blender (ou seu software de preferência)
+*   **Software de Modelagem:** Blender 
 *   **Plataforma Alvo:** Meta Quest 2 / 3
 
 ## 🚀 Como Executar
