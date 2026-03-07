@@ -1,6 +1,6 @@
 # Museu Virtual da Caatinga
 
-<p align="center">
+<p>
   <img src="img1.png" width="120" style="border-radius:50%">
   <img src="img2.png" width="120" style="border-radius:50%">
   <img src="img3.png" width="120" style="border-radius:50%">
