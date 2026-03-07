@@ -2,7 +2,7 @@
 
 ![Badge Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity )
 ![Badge VR](https://img.shields.io/badge/VR%20Ready-Meta%20Quest-blue?style=for-the-badge&logo=meta )
-![Badge Autoral](https://img.shields.io/badge/Assets-100%25%20Autorais-green?style=for-the-badge )
+![Badge Autoral](https://img.shields.io/badge/Assets-25%20Autorais-green?style=for-the-badge )
 
 ## 🌵 Sobre o Projeto
 
