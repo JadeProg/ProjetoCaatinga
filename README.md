@@ -12,7 +12,7 @@ O **Museu Virtual da Caatinga** é uma experiência imersiva em Realidade Virtua
 
 O ambiente transporta o usuário para um cenário que representa a beleza do sertão, onde é possível aprender sobre espécies típicas da flora e interagir com elementos icônicos da cultura regional.
 
-## ✨ Funcionalidades
+## ⚙️ Funcionalidades
 
 *   **Exploração Livre:** Caminhe por um ambiente 3D que recria a paisagem da Caatinga.
 *   **Conteúdo Educacional:** Encontre painéis informativos sobre espécies de plantas nativas, como:
