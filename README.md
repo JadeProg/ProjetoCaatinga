@@ -1,12 +1,5 @@
 # Museu Virtual da Caatinga
 
-<p>
-  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/manda.png" width="140">
-  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/fach.png" width="140">
-  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/xiquexi.png" width="140">
-  <img src="https://raw.githubusercontent.com/JadeProg/imagens/main/coroa.png" width="140">
-</p>
-
 ## 🌵 Sobre o Projeto
 
 O **Museu Virtual da Caatinga** é uma experiência imersiva em Realidade Virtual (VR) desenvolvida como projeto final para a Residência em TIC 29 (Web 3.0). O objetivo é valorizar e difundir a riqueza do bioma da Caatinga e da cultura nordestina, muitas vezes sub-representados.
