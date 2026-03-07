@@ -1,5 +1,11 @@
 # Museu Virtual da Caatinga
 
+![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=for-the-badge&logo=unity)
+![VR](https://img.shields.io/badge/VR-Ready-blue?style=for-the-badge&logo=oculus)
+![Meta Quest](https://img.shields.io/badge/Meta-Quest-blue?style=for-the-badge&logo=meta)
+![Blender](https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender)
+![C#](https://img.shields.io/badge/C%23-Scripting-purple?style=for-the-badge&logo=csharp)
+
 ## 🌵 Sobre o Projeto
 
 O **Museu Virtual da Caatinga** é uma experiência imersiva em Realidade Virtual (VR) desenvolvida como projeto final para a Residência em TIC 29 (Web 3.0). O objetivo é valorizar e difundir a riqueza do bioma da Caatinga e da cultura nordestina, muitas vezes sub-representados.
