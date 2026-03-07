@@ -35,7 +35,7 @@ Um dos grandes diferenciais deste projeto é que **todos os assets 3D e texturas
 *   **Software de Modelagem:** Blender 
 *   **Plataforma Alvo:** Meta Quest 2 / 3
 
-## 🚀 Como Executar
+## 📎 Como Executar
 
 Para testar o projeto no Unity Editor:
 1.  Clone este repositório: `git clone https://github.com/Jade-Paz/ProjetoCaatinga.git`
@@ -44,7 +44,7 @@ Para testar o projeto no Unity Editor:
 4.  Abra a cena principal localizada na pasta `Assets/Scenes`.
 5.  Utilize o `XR Meta Simulator` para testar as interações com o mouse e teclado ou conecte seu headset VR.
 
-## 👩‍💻 Desenvolvedora
+## 👩🏻‍🦰 Desenvolvedora
 
 *   **Jade Pereira da Paz**
 *   [LinkedIn](https://www.linkedin.com/in/jade-paz/)
