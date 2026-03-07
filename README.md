@@ -1,8 +1,11 @@
 # Museu Virtual da Caatinga
 
-![Badge Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity )
-![Badge VR](https://img.shields.io/badge/VR%20Ready-Meta%20Quest-blue?style=for-the-badge&logo=meta )
-![Badge Autoral](https://img.shields.io/badge/Assets-25%20Autorais-green?style=for-the-badge )
+<p align="center">
+  <img src="img1.png" width="120" style="border-radius:50%">
+  <img src="img2.png" width="120" style="border-radius:50%">
+  <img src="img3.png" width="120" style="border-radius:50%">
+  <img src="img4.png" width="120" style="border-radius:50%">
+</p>
 
 ## 🌵 Sobre o Projeto
 
